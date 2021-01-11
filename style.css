@@ -168,7 +168,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 		border: 3px dashed black;
 		width: 400px;
 		height: 230px;
-		background-color: grey;
+		background-color: #ffffff;
 	}
 	p.zayv {
 		font-family: monospace;
